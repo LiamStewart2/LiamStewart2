@@ -7,6 +7,7 @@ Heyy, I'm Liam, a programmer in my first year studying at Staffordshire Universi
 
 - [Graphics-Programming-Assignment](https://github.com/LiamStewart2/GraphicsProgrammingAssignment): My Assignment project for the introduction to graphics programming
 - [Minecraft-Renderer](https://github.com/LiamStewart2/Minecraft-Recreation): My attempt at a Minecraft like world recreation using OpenGL
+- [RTS-Engine](https://github.com/TheEmperorsArmoury/TheGreatWar): A colaborative project i worked on with numerous developers, lead by [Samuel](https://github.com/123samueld)
 - [Boss-Rush-Assignment](https://github.com/LiamStewart2/BossRushUniversityProject): A recreation of the Cryogen fight from Calamity which i intend to use as sandbox for future complex AI projects
 
 ## Contacts
