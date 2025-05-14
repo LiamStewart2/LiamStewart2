@@ -2,7 +2,7 @@
 
 ## About Me
 
-Heyy, I'm Liam, a programmer in my first year studying at Staffordshire University enrolled on the Games Programming Course, but have spent years learning programming before hand. I come from python but for the last year have worked in C++ and Unity primarly, and wanting to specialize in graphical programming.
+Heyy, I'm Liam, a programmer in my first year studying at Staffordshire University enrolled on the Games Programming Course, but have spent years learning programming before hand. I come from python but for the last two years have worked in C++ and Unity primarly, and wanting to specialize in graphical programming.
 ## What Im Working On
 
 - [Graphics-Programming-Assignment](https://github.com/LiamStewart2/GraphicsProgrammingAssignment): My Assignment project for the introduction to graphics programming
