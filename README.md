@@ -2,7 +2,7 @@
 
 ## About Me
 
-Heyy, I'm Liam, a programmer in my first year studying at Staffordshire University enrolled on the Games Programming Course, but have spent years learning programming before hand. I come from python but for the last two years have worked in C++ and Unity primarly, and wanting to specialize in graphical programming.
+Heyy, I'm Liam, a programmer in my second year studying at Staffordshire University enrolled on the Games Programming Course, but have spent years learning programming before hand. I come from python but for the last two years have worked in C++ and Unity primarly, and wanting to specialize in game engine programming.
 ## What Im Working On
 
 - [Luna-Engine](https://github.com/LiamStewart2/Luna-Engine): An OpenGL Game Engine i am in the early stages of developing
